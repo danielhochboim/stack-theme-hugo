@@ -93,7 +93,7 @@ if (-not $hasChanges) {
     Write-Host "No changes to stage."
 } else {
     Write-Host "1"
-    git add . 2>&1 | Write-Host
+    git add . --force
     if ($LASTEXITCODE -ne 0) {
     Write-Error "git add failed with exit code $LASTEXITCODE"
     exit $LASTEXITCODE
