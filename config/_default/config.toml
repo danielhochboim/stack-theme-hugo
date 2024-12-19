@@ -30,4 +30,4 @@ pagerSize = 100
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      hardLineBreak = true
+      hardWraps = true
