@@ -126,7 +126,7 @@ Write-Host "Deploying to GitHub Hostinger..."
 # Check if the temporary branch exists and delete it
 $branchExists = git branch --list "deploy"
 if ($branchExists) {
-    git branch -D hostinger-deploy
+    git branch -D deploy
 }
 
 # Perform subtree split
