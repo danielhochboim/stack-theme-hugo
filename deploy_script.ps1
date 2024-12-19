@@ -131,7 +131,7 @@ if ($branchExists) {
 
 # Perform subtree split
 try {
-    git subtree split --prefix public -b hostinger-deploy
+    git subtree split --prefix public -b deploy
 } catch {
     Write-Error "Subtree split failed."
     exit 1
