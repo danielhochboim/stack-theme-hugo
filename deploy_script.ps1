@@ -147,4 +147,4 @@ try {
 }
 
 # pull changes to my remote server
-ssh home_server@10.0.0.55 "cd /home/home_server/stack-theme-hugo && git fetch && git pull"
+ssh home_server@10.0.0.55 "cd /home/home_server/stack-theme-hugo && git reset --hard origin/master && git clean -fd && git fetch && git pull"
