@@ -6,7 +6,7 @@
         <description>Recent content in Posts on הבלוג של דניאל 📒</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>שלום עולם עולם</title>
         <link>https://demo.stack.jimmycai.com/p/hello-world/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
@@ -22,6 +22,24 @@
     &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>היי מה קורה</title>
+        <link>https://demo.stack.jimmycai.com/p/%D7%94%D7%99%D7%99-%D7%9E%D7%94-%D7%A7%D7%95%D7%A8%D7%94/</link>
+        <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/p/%D7%94%D7%99%D7%99-%D7%9E%D7%94-%D7%A7%D7%95%D7%A8%D7%94/</guid>
+        <description>&lt;p&gt;היי מה קורה שלום לכולם&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>כתבה ראשונה שלי!</title>
+        <link>https://demo.stack.jimmycai.com/p/%D7%9B%D7%AA%D7%91%D7%94-%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94-%D7%A9%D7%9C%D7%99/</link>
+        <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/p/%D7%9B%D7%AA%D7%91%D7%94-%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94-%D7%A9%D7%9C%D7%99/</guid>
+        <description>&lt;p&gt;שלום לכולם אני יובל המבולבל&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -411,14 +429,6 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://demo.stack.jimmycai.com/p/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/</guid>
-        <description></description>
         </item>
         
     </channel>
