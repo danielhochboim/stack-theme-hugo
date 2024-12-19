@@ -2,77 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.stack.jimmycai.com/p/hello-world/</loc>
+    <loc>https://danielhochboim.github.io/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielhochboim.github.io/post/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielhochboim.github.io/p/%D7%A4%D7%AA%D7%97%D7%AA%D7%99-%D7%91%D7%9C%D7%95%D7%92/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielhochboim.github.io/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/post/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/%D7%91%D7%93%D7%99%D7%A7%D7%94/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/%D7%94%D7%99%D7%99-%D7%9E%D7%94-%D7%A7%D7%95%D7%A8%D7%94/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/%D7%9B%D7%AA%D7%91%D7%94-%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94-%D7%A9%D7%9C%D7%99/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/%D7%A2%D7%95%D7%93-%D7%91%D7%93%D7%99%D7%A7%D7%94/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/css/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/html/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/markdown/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/markdown-syntax-guide/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/syntax/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/themes/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/themes/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/image-gallery/</loc>
-    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/shortcodes/</loc>
-    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/math-typesetting/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://demo.stack.jimmycai.com/archives/</loc>
+    <loc>https://danielhochboim.github.io/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/example-category/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://danielhochboim.github.io/categories/</loc>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/example-tag/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://danielhochboim.github.io/categories/example-category/</loc>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/page/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://danielhochboim.github.io/links/</loc>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/links/</loc>
+    <loc>https://danielhochboim.github.io/search/</loc>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/search/</loc>
+    <loc>https://danielhochboim.github.io/tags/</loc>
   </url>
 </urlset>
