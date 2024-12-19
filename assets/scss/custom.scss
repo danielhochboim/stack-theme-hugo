@@ -1,3 +1,15 @@
 /*
     You can add your own custom styles here.
 */
+
+.container {
+  max-width: 1200px !important; /* Adjust the value as needed */
+  margin: 0 auto; /* Center the container */
+  padding: 0 20px; /* Optional: Add horizontal padding */
+  word-spacing: 0.2em;
+  --article-font-family: "Lucida Sans Unicode";
+  --article-font-size: 17px; /* Adjust to your desired article font size */
+  h2 {
+    font-size: 3rem; /* Adjust this value to your preferred size */
+  }
+}

@@ -31,3 +31,6 @@ pagerSize = 100
   [markup.goldmark]
     [markup.goldmark.renderer]
       hardWraps = true
+
+[params]
+  customCSS = ["css/custom.css"]
