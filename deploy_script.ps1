@@ -145,3 +145,6 @@ try {
     git branch -D deploy
     exit 1
 }
+
+# pull changes to my remote server
+ssh home_server@10.0.0.55 "cd /home/home_server/stack-theme-hugo && git fetch && git pull"
