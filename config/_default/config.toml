@@ -26,3 +26,8 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 100
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardLineBreak = true
