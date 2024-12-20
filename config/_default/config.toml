@@ -34,3 +34,7 @@ pagerSize = 100
 
 [params]
   customCSS = ["css/custom.css"]
+  favicon = "/favicon.png"
+  [params.meta]
+      favicon = true
+      #ico = true
